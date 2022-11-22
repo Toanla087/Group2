@@ -1,0 +1,9 @@
+{
+    "Name": "Toan La",
+    "data": {
+        "email": "toan.la@sotatek.com",
+        "address": "Hanoi",
+        "school": "HUST",
+        "date_of_birth": "08/07/2000"
+    }
+}
