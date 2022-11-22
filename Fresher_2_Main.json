@@ -6,4 +6,11 @@
         "school": "Haui",
         "date_of_birth": "1999"
     }
+    "Name" : "Dao Viet Chien",
+    "Data" : {
+        "email" : "chien.dao@sotatek.com",
+        "address" : "Ha Noi",
+        "school" : "hust",
+        "date_of_birth" : "23-01-2000"
+    }
 }
