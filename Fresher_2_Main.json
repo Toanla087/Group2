@@ -1,9 +1,23 @@
 {
-  "Name": "Ngô Trung Hiếu",
-  "Data": {
-    "email": "hieu.ngo@sotatek.com",
-    "address": "Hà Nội",
-    "school": "HUST",
-    "date_of_birth": "12/09/2000"
-  }
+    "Name": "Ngô Trung Hiếu",
+    "Data": {
+      "email": "hieu.ngo@sotatek.com",
+      "address": "Hà Nội",
+      "school": "HUST",
+      "date_of_birth": "12/09/2000"
+     },
+    "Name" : "Đậu Xuân Vũ",
+    "Data" : {
+        "email": "vu.dau@sotatek",
+        "address": "Thanh Hóa",
+        "school": "Haui",
+        "date_of_birth": "1999"
+    },
+    "Name" : "Dao Viet Chien",
+    "Data" : {
+        "email" : "chien.dao@sotatek.com",
+        "address" : "Ha Noi",
+        "school" : "hust",
+        "date_of_birth" : "23-01-2000"
+    }
 }
